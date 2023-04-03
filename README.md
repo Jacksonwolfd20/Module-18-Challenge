@@ -21,3 +21,4 @@ npm start
 ```
 
 ## Walkthrough
+[Walkthrough](https://user-images.githubusercontent.com/78714394/229447280-75796510-7b49-4ce1-96ce-89d00d99ada0.webm)
